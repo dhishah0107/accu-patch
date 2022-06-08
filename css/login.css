@@ -618,7 +618,7 @@
     }
 }
 
-@media screen and (max-width:768px) {
+@media screen and (max-width:767px) {
     .login-page::before {
         display: none;
     }
